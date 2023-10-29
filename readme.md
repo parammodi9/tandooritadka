@@ -3,7 +3,7 @@
 This website has been meticulously crafted using HTML5, CSS3, and the powerful VueJS framework to deliver a seamless and interactive user experience.
 
 ## 🚀 Quick Links
-- [Live Demo](https://parammodi.netlify.app/)
+- [Live Demo](https://tandooritadka.netlify.app/)
 
 ## 📚 About The Project
 
@@ -20,9 +20,9 @@ This project is a fully-interactive website for our restaurant. It not only show
 - VueJS Framework
 
 ## 🔗 Useful Links
-- [Website](https://parammodi.netlify.app/)
-- [Menu](https://parammodi.netlify.app/menu)
-- [Book a Table](https://parammodi.netlify.app/book-a-table)
+- [Website](https://tandooritadka.netlify.app/)
+- [Menu](https://tandooritadka.netlify.app/)
+- [Book a Table]https://tandooritadka.netlify.app/)
 
 ## 🙌 Support
 
