@@ -22,7 +22,7 @@ This project is a fully-interactive website for our restaurant. It not only show
 ## 🔗 Useful Links
 - [Website](https://tandooritadka.netlify.app/)
 - [Menu](https://tandooritadka.netlify.app/)
-- [Book a Table]https://tandooritadka.netlify.app/)
+- [Book a Table](https://tandooritadka.netlify.app/)
 
 ## 🙌 Support
 
