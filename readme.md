@@ -7,7 +7,7 @@ This website has been meticulously crafted using HTML5, CSS3, and the powerful V
 
 ## 📚 About The Project
 
-This project is a fully-interactive website for our restaurant. It not only showcases our menu and ambiance but also provides a feature for customers to book a table online. We have integrated a database management facility to efficiently handle table bookings and ensure a smooth experience for our guests.
+This project is a fully-interactive website for a restaurant. It not only showcases the menu and ambiance but also provides a feature for customers to book a table online. We have integrated a database management facility to efficiently handle table bookings and ensure a smooth experience for our guests.
 
 ## 🍽 Features
 - **Interactive Menu:** Browse through our exquisite menu.
@@ -30,4 +30,4 @@ Give a ⭐️ if you liked this project!
 
 ## 📩 Contact
 
-For any queries or feedback, feel free to [contact us](mailto:example@email.com).
+For any queries or feedback, feel free to [contact us](mailto:paramapplication@gmail.com).
